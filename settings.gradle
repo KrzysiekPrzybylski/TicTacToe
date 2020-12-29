@@ -1,0 +1,4 @@
+rootProject.name = 'kodilla'
+include 'Project1'
+include 'Project2'
+
